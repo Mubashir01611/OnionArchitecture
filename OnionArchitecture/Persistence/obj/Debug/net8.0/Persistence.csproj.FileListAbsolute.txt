@@ -1,0 +1,12 @@
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\ref\Persistence.dll

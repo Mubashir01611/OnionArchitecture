@@ -1,0 +1,12 @@
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\bin\Debug\net8.0\Application.deps.json
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\bin\Debug\net8.0\Application.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\bin\Debug\net8.0\Application.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\refint\Application.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\ref\Application.dll
