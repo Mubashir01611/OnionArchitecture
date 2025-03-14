@@ -10,3 +10,9 @@ D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persi
 D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Application.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Domain.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Application.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date

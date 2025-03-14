@@ -10,3 +10,7 @@ D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Appli
 D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\refint\Application.dll
 D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.pdb
 D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\ref\Application.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\bin\Debug\net8.0\Domain.dll
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\bin\Debug\net8.0\Domain.pdb
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\GitHub\OnionArchitecture\OnionArchitecture\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
