@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Application.Interfaces
 {
     public interface IApplicationDbContext
     {
-     //   public DbSet<Product> Products { get; set; }
+        DbSet<Product> Products { get; set; }
         Task<int> SaveChanges();
-    }
+     }
 }

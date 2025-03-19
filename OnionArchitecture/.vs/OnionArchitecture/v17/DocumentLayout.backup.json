@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\extensions\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F620DAD-CC15-4FD9-832A-CBB2FE41F7EB}|Persistence\\Persistence.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F620DAD-CC15-4FD9-832A-CBB2FE41F7EB}|Persistence\\Persistence.csproj|solutionrelative:persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,64 +19,16 @@
       "RelativeMoniker": "D:0:0:{1F620DAD-CC15-4FD9-832A-CBB2FE41F7EB}|Persistence\\Persistence.csproj|solutionrelative:persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\extensions\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\features\\productfeatures\\command\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\command\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\features\\productfeatures\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\features\\productfeatures\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\features\\productfeatures\\command\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\command\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\features\\productfeatures\\command\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\command\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\application\\application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{77DE64AA-5DB4-44C3-B1D5-4D76C5F27E7C}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{368A2513-5603-4BB4-A7D5-AD82A2BEA297}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|d:\\github\\onionarchitecture\\onionarchitecture\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9A38B25-DFF7-4C8D-9665-FB7D8DF9A6DF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApi",
+              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T23:01:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:58:45.721Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -106,214 +92,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebApi.csproj",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T20:18:05.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:54:29.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Persistence\\DependencyInjection.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\DependencyInjection.cs",
-              "RelativeToolTip": "Persistence\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:43:03.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Extensions\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "WebApi\\Extensions\\ConfigureServices.cs",
               "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Extensions\\ConfigureServices.cs",
               "RelativeToolTip": "WebApi\\Extensions\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:49:15.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:16:59.153Z"
+              "WhenOpened": "2025-03-19T22:57:40.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Persistence\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:57:37.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:57:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:54:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
               "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\DependencyInjection.cs",
               "RelativeToolTip": "Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T21:06:09.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAllProductsQuery.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Queries\\GetAllProductsQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Queries\\GetAllProductsQuery.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Queries\\GetAllProductsQuery.cs",
-              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Queries\\GetAllProductsQuery.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAApwCAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:29:57.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T21:09:19.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Command\\CreateProductCommand.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\CreateProductCommand.cs",
-              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Command\\CreateProductCommand.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAhwCEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:09:04.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeleteProductByIdCommand.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\DeleteProductByIdCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Command\\DeleteProductByIdCommand.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\DeleteProductByIdCommand.cs",
-              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Command\\DeleteProductByIdCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:23:15.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetProductByIdQuery.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Queries\\GetProductByIdQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Queries\\GetProductByIdQuery.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Queries\\GetProductByIdQuery.cs",
-              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Queries\\GetProductByIdQuery.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:43:50.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\WebApi\\appsettings.Development.json",
-              "RelativeToolTip": "WebApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T21:09:29.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdateProductCommand.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\UpdateProductCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Command\\UpdateProductCommand.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Features\\ProductFeatures\\Command\\UpdateProductCommand.cs",
-              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Command\\UpdateProductCommand.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwCQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:17:41.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:50:59.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:49:55.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Application",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-02T20:38:36.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Domain",
-              "DocumentMoniker": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\GitHub\\OnionArchitecture\\OnionArchitecture\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-02T20:36:06.157Z",
               "EditorCaption": ""
             }
           ]

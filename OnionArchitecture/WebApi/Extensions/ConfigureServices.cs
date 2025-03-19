@@ -1,14 +1,25 @@
-﻿namespace WebApi.Extensions
+﻿using System.Configuration;
+using Persistence;
+
+namespace WebApi.Extensions
 {
-    public static class ConfigureServices
+    public class ConfigureServices
     {
-        public static void AddApplication(this IServiceCollection services)
+        //public static void AddPersistence(this IServiceCollection services, IConfiguration configuration)
+        //{
+        //    services.AddPersistence(configuration);
+        //    // services.AddApplication();
+        //}
+        public IConfiguration Configuration { get; }
+
+        public ConfigureServices(IConfiguration configuration)
         {
-            services.AddApplication();
+            Configuration = configuration;
+
         }
-        public static void AddPersistence(this IServiceCollection services, IConfiguration configuration)
+        public void config (IServiceCollection services)
         {
-            services.AddPersistence(configuration);
+            services.AddPersistence(Configuration);
         }
     }
 }
