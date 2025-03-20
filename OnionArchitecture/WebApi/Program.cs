@@ -1,16 +1,11 @@
-using System.Configuration;
-using System.Reflection;
-using Microsoft.AspNetCore.Mvc.TagHelpers;
-using Microsoft.Extensions.DependencyInjection;
+ using System.Reflection; 
 using WebApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers(); 
-//builder.Services.AddApplication(); 
-//builder.Services.AddApplicationServices();
+builder.Services.ServiceDescriptors(builder.Configuration);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
  builder.Services.AddSwaggerGen(options =>
