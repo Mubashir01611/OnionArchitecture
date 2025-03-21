@@ -1,9 +1,9 @@
- using System.Reflection; 
+using System.Reflection;
+using Microsoft.EntityFrameworkCore;
+using Persistence.Context;
 using WebApi.Extensions;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args); 
 
 builder.Services.ServiceDescriptors(builder.Configuration);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -14,6 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
     var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
     options.IncludeXmlComments(xmlPath);
 });
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultServerConnection")));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
