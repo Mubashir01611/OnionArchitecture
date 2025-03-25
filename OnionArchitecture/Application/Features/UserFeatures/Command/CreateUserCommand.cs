@@ -1,7 +1,6 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using System.Security.Cryptography;
+using System.Text;
+using Application.DTOs.User;
 using Application.Interfaces;
 using Domain.Entities;
 using MediatR;
@@ -10,46 +9,32 @@ namespace Application.Features.UserFeatures.Commands
 {
     public class CreateUserCommand : IRequest<int>
     {
-        [Required]
-        public string UserName { get; set; }
-
-        [Required]
-        public string Password { get; set; }
+       public RegisterDto registerDto { get; set; }
     }
 
     public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, int>
     {
-        private readonly IApplicationDbContext _context;
+        private readonly IUserRepository _userRepository;
 
-        public CreateUserCommandHandler(IApplicationDbContext context)
+        public CreateUserCommandHandler(IUserRepository userRepository)
         {
-            _context = context;
+            _userRepository = userRepository;
         }
 
         public async Task<int> Handle(CreateUserCommand command, CancellationToken cancellationToken)
         {
+            using var hmac = new HMACSHA512();
+
             var user = new User
             {
-                UserName = command.UserName,
-                PasswordSalt = GenerateSalt(),
-                PasswordHash = HashPassword(command.Password)
+                UserName = command.registerDto.Name.ToLower(),
+                PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(command.registerDto.Password)),
+                PasswordSalt = hmac.Key,
             };
 
-            _context.Users.Add(user);
-        //    await _context.SaveChanges(cancellationToken);
+            await _userRepository.AddUserAsync(user);
             return user.Id;
         }
 
-        private byte[] GenerateSalt()
-        {
-            using var hmac = new System.Security.Cryptography.HMACSHA512();
-            return hmac.Key;
-        }
-
-        private byte[] HashPassword(string password)
-        {
-            using var hmac = new System.Security.Cryptography.HMACSHA512(GenerateSalt());
-            return hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-        }
     }
 }

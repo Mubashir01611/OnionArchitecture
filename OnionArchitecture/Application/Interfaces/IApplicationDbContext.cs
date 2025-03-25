@@ -12,7 +12,7 @@ namespace Application.Interfaces
     {
 
         DbSet<Product> Products { get; set; }
-        DbSet<User> Users { get; set; }
+         DbSet<User> Users { get; set; }
         Task<int> SaveChanges();
      }
 }

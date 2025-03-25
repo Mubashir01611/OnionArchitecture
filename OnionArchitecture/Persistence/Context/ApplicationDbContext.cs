@@ -17,8 +17,7 @@ namespace Persistence.Context
 
 
         public DbSet<Product> Products { get; set; }
-        public DbSet<User> users { get; set; }
-        public DbSet<User> Users { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public DbSet<User> Users { get; set; }
 
         public async Task<int> SaveChanges()
         {
